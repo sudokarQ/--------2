@@ -1,0 +1,28 @@
+
+.conteiner {
+    max-width: 900px;
+    margin: auto;
+    height: 1000px;
+}
+
+
+img { 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    width: 80%;
+    height: 80%;
+}
+h1, h2 {
+    text-align: center;
+}
+
+.italic {
+    font-style: italic;
+}
+
+p {
+    font-size: 18px;
+    
+}
